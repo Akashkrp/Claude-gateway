@@ -1,0 +1,5 @@
+node_modules/
+gateway.log
+.env
+.credentials.json
+.DS_Store

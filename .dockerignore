@@ -1,0 +1,8 @@
+node_modules
+gateway.log
+.git
+.env
+.credentials.json
+*.bat
+*.vbs
+launch-silent.js

@@ -1,0 +1,17 @@
+{
+  "name": "claude-code-gateway",
+  "version": "1.0.0",
+  "description": "OpenAI-compatible HTTP gateway powered by your Claude Pro/Team subscription via Claude Code CLI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "claude",
+    "anthropic",
+    "openai",
+    "gateway"
+  ],
+  "author": "",
+  "license": "MIT"
+}
