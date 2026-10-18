@@ -15,7 +15,6 @@ WORKDIR /app
 
 # Copy application files
 COPY package*.json ./
-COPY config.json ./
 COPY server.js ./
 
 # Set environment

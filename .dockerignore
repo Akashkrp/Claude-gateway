@@ -3,6 +3,7 @@ gateway.log
 .git
 .env
 .credentials.json
+config.json
 *.bat
 *.vbs
 launch-silent.js

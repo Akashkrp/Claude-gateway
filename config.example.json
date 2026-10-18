@@ -1,6 +1,6 @@
 {
   "port": 8000,
-  "apiKey": "cgw_sk_live_c5be3dad8bc70d0392e80871333432fb",
+  "apiKey": "",
   "claudePath": "auto",
   "defaultModel": "claude-sonnet-4-6",
   "timeoutMs": 180000
